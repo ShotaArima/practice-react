@@ -7,7 +7,7 @@
     docker compose build
     ```
 
-- 起動
+- アプリの作成
     ```bash
     docker compose run --rm node sh -c 'npx create-react-app react-app --template typescript'
     ```
